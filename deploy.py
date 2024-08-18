@@ -1,3 +1,3 @@
 echo " hello world "
-python " hello world "
+print ( hello world )
 date
